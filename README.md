@@ -40,5 +40,4 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 Inspiration and initial model parameters were drawn from various open-source projects and academic papers on stock prediction using LSTM networks.
 
 ## License
-
-This project is licensed under the terms of the MIT license.
+This project is open source and available under the [MIT License](LICENSE).
