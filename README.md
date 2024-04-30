@@ -8,14 +8,14 @@ This project leverages Long Short-Term Memory (LSTM) networks, a special kind of
 
 ## Files and Directories
 
-- data.py: Script for data manipulation and preparation.
-- exp_mov_avg_predictions.py: Implementation of Exponential Moving Average for baseline prediction.
-- lstm.py: Core LSTM model implementation.
-- main.py: Main script to run the model training and prediction.
-- model.keras: Pre-trained LSTM model saved in Keras format.
-- requirements.txt: List of Python packages required to run the project.
-- std_avg_predictions.py: Standard average prediction implementation.
-- Stocks/: Directory containing stock data files.
+- `data.py`: Script for data manipulation and preparation.
+- `exp_mov_avg_predictions.py`: Implementation of Exponential Moving Average for baseline prediction.
+- `lstm.py`: Core LSTM model implementation.
+- `main.py`: Main script to run the model training and prediction.
+- `model.keras`: Pre-trained LSTM model saved in Keras format.
+- `requirements.txt`: List of Python packages required to run the project.
+- `std_avg_predictions.py`: Standard average prediction implementation.
+- `Stocks/`: Directory containing stock data files.
 
 ## Installation
 
